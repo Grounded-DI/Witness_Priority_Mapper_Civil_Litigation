@@ -1,6 +1,6 @@
 # Witness Priority Mapper DI² — Civil-Litigation Demo
 
-This repository preserves a 12-page external-safe licensing demo for Grounded DI LLC. It demonstrates source-linked witness prioritization and exposure-gap review for a hypothetical industrial asbestos/product-liability investigation.
+Grounded DI LLC demonstrates source-linked witness prioritization and exposure-gap review in a 12-page licensing example involving a hypothetical industrial asbestos and product-liability investigation.
 
 ## Demonstrated workflow
 
@@ -17,7 +17,7 @@ The sample result is **targeted witness-location escalation with attorney review
 
 ## Scope and limitations
 
-All facts are hypothetical. The artifact contains no real client or privileged case information and does not prove exposure, asbestos content, causation, punitive damages, liability, or legal responsibility. It is a litigation-support workflow demonstration, not automated legal resolution or independent validation.
+The facts are hypothetical. The example prioritizes investigation. Actual exposure, product content, causation, and liability require evidence and attorney review.
 
 ## How to review
 
